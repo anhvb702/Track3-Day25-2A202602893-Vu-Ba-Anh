@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên:** Vũ Bá Anh  **MSSV:** 2A202602893  **Commit:** cập nhật hash sau commit nộp  **Điểm tự động (`make grade`):** 84 / 88 (4 điểm SLO hidden do giảng viên chấm)
+**Họ tên:** Vũ Bá Anh  **MSSV:** 2A202602893  **Commit:** `b43c707`  **Điểm tự động (`make grade`):** 84 / 88 (4 điểm SLO hidden do giảng viên chấm)
 
 > Số liệu dưới đây lấy từ các báo cáo và CSV hiện có trong `reports/`. Kết quả là một lần chạy public; grader có thể dùng seed và băng ẩn khác.
 
